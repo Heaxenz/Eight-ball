@@ -1,0 +1,20 @@
+.EightBall{
+    background-color: black;
+    display:flex;
+    height:500px;
+    width:500px;
+    justify-content: center;
+    align-items: center;
+    border-radius:100%;
+
+}
+.EightBallMsg{
+    color:white
+}
+.EightBallCenter{
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    height:1085px;
+
+}
